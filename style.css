@@ -1,0 +1,74 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    background-color: black !important;
+}
+/* Social Links section start  */
+
+li
+{
+    list-style-type: none;
+    margin: 10px;
+}
+
+ul li i{
+    padding: 2px;
+}
+
+i{
+    padding: 13px;
+}
+
+/* <!-- Social Links section end --> */
+
+.white{
+    color: white;
+}
+
+.grey
+{
+    color: grey;
+}
+
+.orange{
+    color: #ff7400;
+}
+
+
+.list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .list li {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .list i {
+    margin-right: 10px;
+  }
+
+  /* <!-- Footer section start --> */
+
+  .footer {
+    background-image: url("img/footer.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px 0;
+    text-align: center;
+    border: 0.5px solid grey;
+    border-radius: 5px ;
+  }
+
+  /* <!-- Footer section start --> */
+
+  .card{
+    border: 2px solid black !important;
+    
+  }
